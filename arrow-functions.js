@@ -21,7 +21,7 @@ const addTwoNumbers4 = (a, b) => a + b;
 sum3 = addTwoNumbers4(1, 2);
 console.log(sum3);
 
-// Implicit Returns
+// Implicit Returns with single or no parameters
 const saySomething = message => console.log(message);
 saySomething("Hello!");
 
